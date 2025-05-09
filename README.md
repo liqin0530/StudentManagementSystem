@@ -1,3 +1,5 @@
+# SmartClass - Python-Driven Classroom Management System
+
 # Student Management System
 
 This is a Python-based Student Management System developed as part of a university assignment. It is a terminal-based application that simulates essential academic features such as:
